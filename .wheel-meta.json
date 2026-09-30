@@ -1,0 +1,19 @@
+{
+  "wheel_id": 326,
+  "structure": "umbrella",
+  "slug": "searchengineoptimisationbrisbane-com-103",
+  "project": "seo-services-brisbane-comparison-6551f86e2416e00b825b6d69e67183",
+  "parent_t1_ref": "searchengineoptimisationbrisbane-com-151",
+  "node_role": "feeder",
+  "money_target": "searchengineoptimisationbrisbane.com.au",
+  "primary_kw": "seo services brisbane comparison",
+  "intended_url": "https://sites-e470-2.web.app/seo-services-brisbane-comparison-6551f86e2416e00b825b6d69e67183/",
+  "writeback_nonce": "2a69370e407aeb84",
+  "links": [
+    {
+      "target_url": "http://seo-services-brisbane-f4f0488f1f264e0ab0272ee63e07ef96757356d4.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "seo services brisbane",
+      "rel": "follow"
+    }
+  ]
+}
